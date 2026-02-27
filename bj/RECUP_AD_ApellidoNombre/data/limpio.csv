@@ -1,0 +1,123 @@
+id,fecha,cliente,concepto,importe,estado,categoriaImporte
+1,2024-01-01,Cliente A,Venta Producto,150.5,completado,medio
+2,2024-01-02,Cliente B,Serivicio Técnico,200.0,pendiente,medio
+3,2024-03-01,Cliente C,Consultoría,450.75,completado,medio
+4,2024-01-04,Cliente D,Mantenimiento,120.0,completado,medio
+5,2024-01-05,Cliente E,Venta Producto,300.5,completado,medio
+6,2024-01-06,Cliente A,Reparación,85.0,pendiente,bajo
+7,2024-01-07,Cliente F,Asesoría,,completado,invalido
+8,2024-08-01,Cliente G,Venta Producto,200.0,completado,medio
+9,2024-01-09,Cliente H,Instalación,650.0,cancelado,alto
+10,2024-01-10,Cliente I,Consulta,150.0,completado,medio
+11,2024-01-01,Cliente J,Venta Producto,200.0,completado,medio
+12,2024-01-11,Cliente K,Serivicio,95.5,pendiente,bajo
+13,2024-01-12,Cliente L,Producto,500.0,completado,alto
+14,2024-01-13,Cliente M,Venta,450.0,completado,medio
+15,2024-01-14,Cliente N,Reparación,175.25,pendiente,medio
+16,01/15/2024,Cliente O,Asesoría,320.0,completado,medio
+17,2024-01-16,Cliente P,Instalación,890.75,completado,alto
+18,2024-01-17,Cliente Q,Consultoría,550.0,cancelado,alto
+19,2024-01-18,Cliente R,Mantenimiento,420.0,completado,medio
+20,01/19/2024,Cliente S,Venta Producto,280.0,pendiente,medio
+21,2024-01-20,Cliente T,Reparación,,completado,invalido
+22,2024-01-21,Cliente U,Consulta,90.0,completado,bajo
+23,01/22/2024,Cliente V,Serivicio Técnico,330.75,pendiente,medio
+24,2024-01-23,Cliente W,Producto,210.0,completado,medio
+25,2024-01-24,Cliente X,Instalación,600.25,cancelado,alto
+26,01/25/2024,Cliente Y,Asesoría,445.0,completado,medio
+27,2024-01-26,Cliente Z,Consultoría,375.5,completado,medio
+28,2024-01-27,Cliente Aa,Venta,520.0,pendiente,alto
+29,2024-01-28,Cliente Ab,Reparación,165.0,completado,medio
+30,2024-01-28,Cliente Ac,Mantenimiento,850.0,completado,alto
+31,01/29/2024,Cliente Ad,Consulta,310.0,pendiente,medio
+32,2024-01-30,Cliente Ae,Producto,425.75,completado,medio
+33,2024-01-31,Cliente Af,Serivicio,200.5,completado,medio
+34,2024-02-01,Cliente Ag,Instalación,680.0,cancelled,alto
+35,2024-02-01,Cliente Ah,Asesoría,290.0,completado,medio
+36,2024-02-02,Cliente Ai,Consultoría,555.25,pendiente,alto
+37,2024-02-03,Cliente Aj,Venta Producto,410.0,completado,medio
+38,2024-04-02,Cliente Ak,Reparación,,completado,invalido
+39,2024-02-05,Cliente Al,Mantenimiento,195.0,completado,medio
+40,2024-02-06,Cliente Am,Consulta,340.0,pendiente,medio
+41,2024-07-02,Cliente An,Producto,505.0,completado,alto
+42,2024-02-08,Cliente Ao,Serivicio Técnico,375.5,completado,medio
+43,2024-02-09,Cliente Ap,Instalación,725.0,cancelado,alto
+44,2024-02-10,Cliente Aq,Asesoría,420.5,completado,medio
+45,2024-02-10,Cliente Ar,Consultoría,280.0,pendiente,medio
+46,2024-11-02,Cliente As,Venta,395.75,completado,medio
+47,2024-02-12,Cliente At,Reparación,650.0,completado,alto
+48,2024-02-13,Cliente Au,Mantenimiento,510.0,completado,alto
+49,2024-02-14,Cliente Av,Consulta,165.0,pendiente,medio
+50,2024-02-15,Cliente Aw,Producto,455.25,completado,medio
+51,2024-02-15,Cliente Ax,Serivicio,220.75,completado,medio
+52,02/16/2024,Cliente Ay,Instalación,835.0,completado,alto
+53,2024-02-17,Cliente Az,Asesoría,390.0,pendiente,medio
+54,2024-02-17,Cliente Ba,Consultoría,565.5,cancelado,alto
+55,2024-02-18,Cliente Bb,Venta Producto,310.0,completado,medio
+56,2024-02-19,Cliente Bc,Reparación,900.25,completado,alto
+57,02/20/2024,Cliente Bd,Mantenimiento,425.75,pendiente,medio
+58,2024-02-21,Cliente Be,Consulta,275.0,completado,medio
+59,2024-02-21,Cliente Bf,Producto,480.0,completado,medio
+60,2024-02-22,Cliente Bg,Serivicio Técnico,350.0,cancelado,medio
+61,2024-02-22,Cliente Bh,Instalación,645.0,completado,alto
+62,02/23/2024,Cliente Bi,Asesoría,520.5,pendiente,alto
+63,2024-02-24,Cliente Bj,Consultoría,395.0,completado,medio
+64,2024-02-24,Cliente Bk,Venta,610.75,completado,alto
+65,2024-02-25,Cliente Bl,Reparación,780.5,completado,alto
+66,2024-02-26,Cliente Bm,Mantenimiento,285.0,pendiente,medio
+67,02/27/2024,Cliente Bn,Consulta,450.0,completado,medio
+68,2024-02-28,Cliente Bo,Producto,515.25,completado,alto
+69,2024-02-28,Cliente Bp,Serivicio,210.75,cancelado,medio
+70,2024-02-29,Cliente Bq,Instalación,670.0,completado,alto
+71,2024-03-01,Cliente Br,Asesoría,380.5,pendiente,medio
+72,2024-03-02,Cliente Bs,Consultoría,525.0,completado,alto
+73,2024-03-02,Cliente Bt,Venta Producto,440.75,completado,medio
+74,2024-03-03,Cliente Bu,Reparación,695.0,completado,alto
+75,2024-03-04,Cliente Bv,Mantenimiento,315.0,cancelado,medio
+76,2024-03-04,Cliente Bw,Consulta,385.0,completado,medio
+77,2024-03-05,Cliente Bx,Producto,625.5,pendiente,alto
+78,2024-03-05,Cliente By,Serivicio Técnico,240.25,completado,medio
+79,2024-03-06,Cliente Bz,Instalación,750.0,completado,alto
+80,2024-03-06,Cliente Ca,Asesoría,495.75,completado,medio
+81,2024-07-03,Cliente Cb,Consultoría,405.0,pendiente,medio
+82,2024-03-08,Cliente Cc,Venta,680.5,completado,alto
+83,2024-03-08,Cliente Cd,Reparación,520.75,completado,alto
+84,2024-03-09,Cliente Ce,Mantenimiento,350.0,cancelado,medio
+85,2024-03-09,Cliente Cf,Consulta,595.25,completado,alto
+86,2024-10-03,Cliente Cg,Producto,465.0,completado,medio
+87,2024-03-11,Cliente Ch,Serivicio,310.5,pendiente,medio
+88,2024-03-10,Cliente Ci,Instalación,775.0,completado,alto
+89,2024-03-12,Cliente Cj,Asesoría,420.75,completado,medio
+90,2024-03-13,Cliente Ck,Consultoría,545.5,completado,alto
+91,2024-03-12,Cliente Cl,Venta Producto,375.0,pendiente,medio
+92,03/13/2024,Cliente Cm,Reparación,840.0,completado,alto
+93,2024-03-14,Cliente Cn,Mantenimiento,290.25,cancelado,medio
+94,2024-03-14,Cliente Co,Consulta,510.0,completado,alto
+95,2024-03-15,Cliente Cp,Producto,620.75,completado,alto
+96,2024-03-15,Cliente Cq,Serivicio Técnico,445.5,pendiente,medio
+97,03/16/2024,Cliente Cr,Instalación,190.5,completado,medio
+98,2024-03-17,Cliente Cs,Asesoría,705.0,completado,alto
+99,2024-03-18,Cliente Ct,Consultoría,480.75,pendiente,medio
+100,2024-03-17,Cliente Cu,Venta,615.0,completado,alto
+101,2024-03-18,Cliente Cv,Reparación,560.25,completado,alto
+102,03/19/2024,Cliente Cw,Mantenimiento,385.5,completado,medio
+103,2024-03-20,Cliente Cx,Consulta,470.0,cancelado,medio
+104,2024-03-19,Cliente Cy,Producto,540.75,completado,alto
+105,2024-03-21,Cliente Cz,Serivicio,220.0,completado,medio
+106,2024-03-20,Cliente Da,Instalación,795.5,pendiente,alto
+107,03/22/2024,Cliente Db,Asesoría,410.0,completado,medio
+108,2024-03-23,Cliente Dc,Consultoría,625.75,completado,alto
+109,2024-03-22,Cliente Dd,Venta Producto,355.0,completado,medio
+110,2024-03-24,Cliente De,Reparación,765.5,cancelado,alto
+111,2024-03-23,Cliente Df,Mantenimiento,495.25,completado,medio
+112,03/25/2024,Cliente Dg,Consulta,580.0,pendiente,alto
+113,2024-03-26,Cliente Dh,Producto,420.5,completado,medio
+114,2024-03-25,Cliente Di,Serivicio Técnico,340.75,completado,medio
+115,2024-03-27,Cliente Dj,Instalación,650.0,completado,alto
+116,2024-03-28,Cliente Dk,Asesoría,530.25,completado,alto
+117,2024-03-26,Cliente Dl,Consultoría,475.0,pendiente,medio
+118,03/29/2024,Cliente Dm,Venta,685.75,completado,alto
+119,2024-03-30,Cliente Dn,Reparación,310.5,completado,medio
+120,2024-03-27,Cliente Do,Mantenimiento,395.5,cancelado,medio
+121,2024-03-31,Cliente Dp,Consulta,445.0,completado,medio
+122,2024-03-31,Cliente Dq,Producto,615.25,pendiente,alto

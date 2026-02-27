@@ -31,7 +31,7 @@ public class ClienteRMI { // Declaración de la clase ClienteRMI
     public ClienteRMI() { // Constructor de la clase ClienteRMI
 
         try { // Bloque try para controlar posibles errores
-            servidor = (HelpDeskRemote) Naming.lookup("rmi://10.194.56.255/HelpDesk"); // Busca el objeto remoto en el servidor RMI y lo guarda
+            servidor = (HelpDeskRemote) Naming.lookup("rmi://localHost/HelpDesk"); // Busca el objeto remoto en el servidor RMI y lo guarda
         } catch (Exception e) { // Captura cualquier excepción que ocurra
             System.out.println("Error al conectar con el servidor"); // Muestra un mensaje de error por consola
             e.printStackTrace(); // Imprime el detalle del error
@@ -103,9 +103,9 @@ public class ClienteRMI { // Declaración de la clase ClienteRMI
     }
 
     /*
-     * ===============================
+     *
      * -----------EXTRAS------------------
-     * ===============================
+     * 
      */
 
     /*

@@ -46,7 +46,7 @@ public class HiloTecnico extends Thread { // Declaración de la clase HiloTecnic
      * - los procesa
      * - duerme un poco
      */
-    @Override
+    @Override // no implementado
     public void run() { // Método que se ejecuta al iniciar el hilo
 
         while (activo) { // El hilo se ejecuta mientras esté activo

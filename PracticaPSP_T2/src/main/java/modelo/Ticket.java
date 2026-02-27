@@ -87,7 +87,7 @@ public class Ticket implements Serializable { // Declaración de la clase Ticket
         historial.add("Técnico asignado: " + tecnicoAsignado); // Registra el cambio en el historial
     }
 
-    // Método correcto (antes estaba roto)
+    
     public void addHistorial(String mensaje) { // Añade un mensaje personalizado al historial
         historial.add(mensaje); // Guarda el mensaje en la lista
     }
